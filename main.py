@@ -1,6 +1,6 @@
 ## Project R@ptor 
 ## First created: 9/6/24
-# Hi
+
 ## Imports
 import sys
 import os
